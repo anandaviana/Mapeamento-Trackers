@@ -2,7 +2,7 @@
 
  ![Frame 1](https://github.com/user-attachments/assets/d6c34b36-020b-4cc9-957d-25d120c57479)
 
- ### Tecnologias e ferramentas
+ ## Tecnologias e ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
    &nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="15" height="15"/> Pandas
