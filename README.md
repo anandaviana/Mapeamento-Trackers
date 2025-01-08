@@ -24,6 +24,6 @@ Como mencionado, havia divergência na nomenclatura dos Trackers entre os arquiv
 ## Glossário: 
 *String:* Conjunto de painéis solares conectados. <br>
 *Tracker:* Motor que controla a inclinação de uma fileira de paineis (uma ou mais strings).<br>
-*Inversor:* Recebe a energia das Strings (DC, corrente contínua) em AC (corrente alteranda). <br>
+*Inversor:* Recebe a energia das Strings (DC, corrente contínua) e converte em AC (corrente alteranda). <br>
 *STS*: Subdivisão de inversores conectados em um mesmo transformador. 
 
